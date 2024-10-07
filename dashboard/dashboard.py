@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Membaca dataset
 
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv("dataset.csv")
 
 
 # Menghitung rata-rata penyewaan sepeda berdasarkan hari libur dan hari kerja
